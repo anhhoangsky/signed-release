@@ -1,1 +1,1 @@
-{"schema":1,"version":"0.1.4","sequence":4,"generated_at":1793724208,"app_base":"/app/","manifest_sha256":"1f2a977e31fba6e59afed9f1258666523a1c506a89d95d649b390b64ea542eb7","manifest":"manifest.json","manifest_signature":"manifest.sig"}
+{"schema":1,"version":"0.2.2","sequence":5,"generated_at":1793845805,"app_base":"/app/","manifest_sha256":"6fc46beef1b72937c1782299bccb4fc73944d531603d1d40a579dadcaa92c989","manifest":"manifest.json","manifest_signature":"manifest.sig"}
